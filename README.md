@@ -31,7 +31,7 @@ Audit Armor is a powerful web security scanner that helps identify and detect vu
 ### Clone the Repository
 
 ```shell
-$ git clone https://github.com/Malwareman007/AuditArmor.git
+$ git clone https://github.com/hariharan136/AuditArmor.git
 ```
 ### Navigate to the AuditArmor Directory
 ```shell
@@ -48,7 +48,7 @@ $ python3 -m pip install -r requirements.txt
 ```shell
 $ pkg install python -y
 $ pkg install git -y
-$ git clone https://github.com/Malwareman007/AuditArmor.git
+$ git clone https://github.com/hariharan136/AuditArmor.git
 $ cd AuditArmor
 $ python3 -m pip install -r requirements.txt
 ```
