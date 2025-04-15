@@ -1,6 +1,7 @@
 
-# Description![{6D676BD4-A620-4189-B782-F2548EEDB1A4}](https://github.com/user-attachments/assets/50cc83c4-858b-49e4-aea3-c163853d9d2c)
+![{6D676BD4-A620-4189-B782-F2548EEDB1A4}](https://github.com/user-attachments/assets/50cc83c4-858b-49e4-aea3-c163853d9d2c)
 
+# Description
 
 **AuditArmor** is a highly sophisticated and efficient web security tool designed to scan for potential vulnerabilities in your web applications. It uses a combination of advanced techniques, incorporating popular tools like `waybackurls` and `curl`, to passively and quickly scan your web applications, providing a fast overview of potential vulnerabilities. The results are displayed in an easy-to-read format in the terminal, and only vulnerable results are saved for further investigation. With its lightweight and fast nature, **AuditArmor** is the perfect tool for any RED Teamer.
 
